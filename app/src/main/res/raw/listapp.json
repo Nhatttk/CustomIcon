@@ -1,0 +1,163 @@
+[
+  {
+    "appName": "Tiktok",
+    "packageName": "com.ss.android.ugc.trill",
+    "uriName": "snssdk1128",
+    "listIcon" :
+      [
+        {
+          "name" : "fb_1",
+          "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+        },
+        {
+          "name" : "fb_2",
+          "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+        },
+        {
+          "name" : "fb_3",
+          "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+        }
+      ]
+  },
+  {
+    "appName": "Whatsapp",
+    "packageName": "com.whatsapp",
+    "uriName": "whatsapp",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  },
+  {
+    "appName": "Youtube",
+    "packageName": "com.google.android.youtube",
+    "uriName": "https://www.youtube.com",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  },
+  {
+    "appName": "Facebook",
+    "packageName": "com.facebook.katana",
+    "uriName": "fb",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  },
+  {
+    "appName": "Messenger",
+    "packageName": "com.facebook.orca",
+    "uriName": "fb-messenger",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  },
+  {
+    "appName": "Instagram",
+    "packageName": "com.instagram.android",
+    "uriName": "instagram",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  },
+  {
+    "appName": "Twitter",
+    "packageName": "com.twitter.android",
+    "uriName": "twitter",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  },
+  {
+    "appName": "KakaoTalk",
+    "packageName": "com.kakao.talk",
+    "uriName": "kakaotalk",
+    "listIcon" :
+    [
+      {
+        "name" : "fb_1",
+        "img_url": "https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Facebook-64.png"
+      },
+      {
+        "name" : "fb_2",
+        "img_url": "https://cdn2.iconfinder.com/data/icons/social-media-2189/48/1-Facebook-64.png"
+      },
+      {
+        "name" : "fb_3",
+        "img_url": "https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-03-64.png"
+      }
+    ]
+  }
+
+]
